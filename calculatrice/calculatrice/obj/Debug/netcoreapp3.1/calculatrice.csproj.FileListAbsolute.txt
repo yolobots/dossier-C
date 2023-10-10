@@ -1,0 +1,14 @@
+E:\dossier C\calculatrice\calculatrice\bin\Debug\netcoreapp3.1\calculatrice.exe
+E:\dossier C\calculatrice\calculatrice\bin\Debug\netcoreapp3.1\calculatrice.deps.json
+E:\dossier C\calculatrice\calculatrice\bin\Debug\netcoreapp3.1\calculatrice.runtimeconfig.json
+E:\dossier C\calculatrice\calculatrice\bin\Debug\netcoreapp3.1\calculatrice.runtimeconfig.dev.json
+E:\dossier C\calculatrice\calculatrice\bin\Debug\netcoreapp3.1\calculatrice.dll
+E:\dossier C\calculatrice\calculatrice\bin\Debug\netcoreapp3.1\calculatrice.pdb
+E:\dossier C\calculatrice\calculatrice\obj\Debug\netcoreapp3.1\calculatrice.csproj.AssemblyReference.cache
+E:\dossier C\calculatrice\calculatrice\obj\Debug\netcoreapp3.1\calculatrice.GeneratedMSBuildEditorConfig.editorconfig
+E:\dossier C\calculatrice\calculatrice\obj\Debug\netcoreapp3.1\calculatrice.AssemblyInfoInputs.cache
+E:\dossier C\calculatrice\calculatrice\obj\Debug\netcoreapp3.1\calculatrice.AssemblyInfo.cs
+E:\dossier C\calculatrice\calculatrice\obj\Debug\netcoreapp3.1\calculatrice.csproj.CoreCompileInputs.cache
+E:\dossier C\calculatrice\calculatrice\obj\Debug\netcoreapp3.1\calculatrice.dll
+E:\dossier C\calculatrice\calculatrice\obj\Debug\netcoreapp3.1\calculatrice.pdb
+E:\dossier C\calculatrice\calculatrice\obj\Debug\netcoreapp3.1\calculatrice.genruntimeconfig.cache

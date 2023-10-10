@@ -1,0 +1,14 @@
+E:\dossier C\calculateur_de_tailles\calculateur_de_tailles\obj\Debug\netcoreapp3.1\calculateur_de_tailles..csproj.AssemblyReference.cache
+E:\dossier C\calculateur_de_tailles\calculateur_de_tailles\obj\Debug\netcoreapp3.1\calculateur_de_tailles..GeneratedMSBuildEditorConfig.editorconfig
+E:\dossier C\calculateur_de_tailles\calculateur_de_tailles\obj\Debug\netcoreapp3.1\calculateur_de_tailles..AssemblyInfoInputs.cache
+E:\dossier C\calculateur_de_tailles\calculateur_de_tailles\obj\Debug\netcoreapp3.1\calculateur_de_tailles..AssemblyInfo.cs
+E:\dossier C\calculateur_de_tailles\calculateur_de_tailles\obj\Debug\netcoreapp3.1\calculateur_de_tailles..csproj.CoreCompileInputs.cache
+E:\dossier C\calculateur_de_tailles\calculateur_de_tailles\bin\Debug\netcoreapp3.1\calculateur_de_tailles..exe
+E:\dossier C\calculateur_de_tailles\calculateur_de_tailles\bin\Debug\netcoreapp3.1\calculateur_de_tailles..deps.json
+E:\dossier C\calculateur_de_tailles\calculateur_de_tailles\bin\Debug\netcoreapp3.1\calculateur_de_tailles..runtimeconfig.json
+E:\dossier C\calculateur_de_tailles\calculateur_de_tailles\bin\Debug\netcoreapp3.1\calculateur_de_tailles..runtimeconfig.dev.json
+E:\dossier C\calculateur_de_tailles\calculateur_de_tailles\bin\Debug\netcoreapp3.1\calculateur_de_tailles..dll
+E:\dossier C\calculateur_de_tailles\calculateur_de_tailles\bin\Debug\netcoreapp3.1\calculateur_de_tailles..pdb
+E:\dossier C\calculateur_de_tailles\calculateur_de_tailles\obj\Debug\netcoreapp3.1\calculateur_de_tailles..dll
+E:\dossier C\calculateur_de_tailles\calculateur_de_tailles\obj\Debug\netcoreapp3.1\calculateur_de_tailles..pdb
+E:\dossier C\calculateur_de_tailles\calculateur_de_tailles\obj\Debug\netcoreapp3.1\calculateur_de_tailles..genruntimeconfig.cache

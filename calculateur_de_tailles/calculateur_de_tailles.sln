@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculateur_de_tailles.", "..\calculateur_de_tailles\calculateur_de_tailles\calculateur_de_tailles..csproj", "{6EDFD64E-8832-495A-B9A1-82630E30C91B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EDFD64E-8832-495A-B9A1-82630E30C91B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EDFD64E-8832-495A-B9A1-82630E30C91B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EDFD64E-8832-495A-B9A1-82630E30C91B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EDFD64E-8832-495A-B9A1-82630E30C91B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BDA1933-2164-461A-910F-B1C3BC01E5DB}
+	EndGlobalSection
+EndGlobal

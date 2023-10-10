@@ -1,0 +1,7 @@
+E:\dossier C\premeir projet c\premeir projet c\bin\Debug\premeir projet c.exe.config
+E:\dossier C\premeir projet c\premeir projet c\bin\Debug\premeir projet c.exe
+E:\dossier C\premeir projet c\premeir projet c\bin\Debug\premeir projet c.pdb
+E:\dossier C\premeir projet c\premeir projet c\obj\Debug\premeir projet c.csproj.AssemblyReference.cache
+E:\dossier C\premeir projet c\premeir projet c\obj\Debug\premeir projet c.csproj.CoreCompileInputs.cache
+E:\dossier C\premeir projet c\premeir projet c\obj\Debug\premeir projet c.exe
+E:\dossier C\premeir projet c\premeir projet c\obj\Debug\premeir projet c.pdb
